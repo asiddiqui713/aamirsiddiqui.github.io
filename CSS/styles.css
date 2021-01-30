@@ -26,36 +26,36 @@ h4 {
   color: white;
   font-family: 'Annie Use Your Telescope', cursive;
 }
-.p5 {
+p5 {
   color: white;
   font-family: 'Annie Use Your Telescope', cursive;
 }
-.p6 {
+p6 {
   color: white;
   font-size: 0.75rem;
   font-style: normal;
   font-family: monospace;
 }
-.skills {
+skills {
   color: white;
   font-size: 0.75rem;
   font-style: normal;
   font-family: monospace;
 }
-.p2 {
+p2 {
   color: white;
   font-family: 'Bebas Neue', cursive;
 }
 
-.btclink {
+btclink {
   font-family: monospace;
   font-size: 20px;
 }
-.footer-link {
+footer-link {
   font-family: monospace;
   font-size: 20px;
 }
-.email {
+email {
   font-family: monospace;
   font-size: 20px;
 }
@@ -64,18 +64,18 @@ p {
   font-family: 'Architects Daughter', cursive;
 }
 
-.top-cloud {
+top-cloud {
   padding-top: 10px;
   position: absolute;
   right: 400px;
 }
 
-.bottom-cloud {
+bottom-cloud {
   padding-top: 100px;
   position: absolute;
   left: 250px;
 }
-.top-cloud2 {
+top-cloud2 {
   padding-bottom: 50px;
   position: absolute;
   right: 300px;
