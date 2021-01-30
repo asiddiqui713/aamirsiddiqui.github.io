@@ -36,13 +36,18 @@ h4 {
   font-style: normal;
   font-family: monospace;
 }
+.skills {
+  color: white;
+  font-size: 0.75rem;
+  font-style: normal;
+  font-family: monospace;
+}
 .p2 {
   color: white;
   font-family: 'Bebas Neue', cursive;
 }
 
 .btclink {
-  .btclink {
    background: #69F63D;
    background-image: -webkit-linear-gradient(top, #69F63D, #021433);
    background-image: -moz-linear-gradient(top, #69F63D, #021433);
