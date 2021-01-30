@@ -40,6 +40,12 @@ h4 {
   color: white;
   font-family: 'Bebas Neue', cursive;
 }
+
+.btclink {
+  color: blue;
+  font-family: monospace;
+  font-size: 20px;
+}
 .footer-link {
   font-family: monospace;
   font-size: 20px;
