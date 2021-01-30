@@ -2,7 +2,7 @@ body {
   padding-top: 50px;
   background-image: url(https://images.wallpapersden.com/image/download/huawei-4k-stock-abstract_a2toaGuUmZqaraWkpJRobWllrWdma2U.jpg);
   text-align: center;
-  font-family: 'Dancing Script', cursive;
+  font-family: 'VT323', monospace;
 }
 h1 {
   padding-top: 50px;
@@ -10,7 +10,7 @@ h1 {
   margin: 0 auto 0 auto;
   width: 10%
 }
-.my-image {
+my-image {
   height: 300px;
   width: 300px;
 }
