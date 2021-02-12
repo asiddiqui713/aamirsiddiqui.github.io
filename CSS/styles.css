@@ -15,35 +15,35 @@ my-image {
   width: 300px;
 }
 h2 {
-  color: white;
+  color: black;
   font-family: 'Hachi Maru Pop', cursive;
 }
 h3 {
-  color: white;
+  color: black;
   font-family: 'Hachi Maru Pop', cursive;
 }
 h4 {
-  color: white;
+  color: black;
   font-family: 'Annie Use Your Telescope', cursive;
 }
 p5 {
-  color: white;
+  color: black;
   font-family: 'Annie Use Your Telescope', cursive;
 }
 p6 {
-  color: white;
+  color: black;
   font-size: 0.75rem;
   font-style: normal;
   font-family: monospace;
 }
 skills {
-  color: white;
+  color: black;
   font-size: 0.75rem;
   font-style: normal;
   font-family: monospace;
 }
 p2 {
-  color: white;
+  color: black;
   font-family: 'Bebas Neue', cursive;
 }
 
@@ -95,7 +95,7 @@ email {
   font-size: 20px;
 }
 p {
-  color: white;
+  color: black;
   font-family: 'Architects Daughter', cursive;
 }
 
