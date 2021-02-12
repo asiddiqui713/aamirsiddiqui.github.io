@@ -108,10 +108,10 @@ top-cloud {
 bottom-cloud {
   padding-top: 100px;
   position: absolute;
-  left: 250px;
+  left: 200px;
 }
 top-cloud2 {
   padding-bottom: 50px;
   position: absolute;
-  right: 300px;
+  right: 200px;
 }
